@@ -2,38 +2,55 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. 	Which is not true for a blocking buffer solution ?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Binds to all potential sites of nonspecific interaction",
+        "b": "Improves the sensitivity of an assay by reducing background signal",
+        "c": "Improving the signal-to-noise ratio",
+        "d": "Alters or obscures the epitope for antibody binding"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2. The major disadvantage of Direct ELISA is:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Cross-reactivity of secondary antibody is eliminated",
+        "b": "Cross-reactivity might occur with the secondary antibody, resulting in nonspecific signal",
+        "c": "Labeling primary antibodies for each specific ELISA system is time-consuming and expensive",
+        "d": "Only one antibody and fewer steps are used"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "c",
       "difficulty": "beginner"
-    }
+    },
+
+    {
+      "question": "3.	Direct ELISA is used for the detection of:",
+      "answers": {
+        "a": "Soluble antibody",
+        "b": "Soluble antigen",
+        "c": "Complement",
+        "d": "All of the above"
+      },
+          
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+      {
+        "question": "4. Washing step can be performed with a physiologic buffer such as tris-buffered saline (TBS) or phosphate-buffered saline (PBS)",
+        "answers": {
+          "a": "True",
+          "b": "False."
+        },
+
+            
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }   
+     
+    
   ]
 }
